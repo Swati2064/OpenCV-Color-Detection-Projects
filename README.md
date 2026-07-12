@@ -169,6 +169,4 @@ LinkedIn: https://www.linkedin.com/in/swati-jadhav-b759a6315/
 
 
 
-## ⭐ If you like this project
 
-Give this repository a ⭐ on GitHub.
